@@ -1,0 +1,66 @@
+div.innpakking{
+  width: 1000px;
+  background-color: green;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  color: black;
+  font-family: verdana;
+  font-size: 20px;
+}
+
+
+h1{
+  font-family: Tahoma;
+}
+
+div.intro{
+  color: #ADF0E5;
+  text-align: center;
+}
+
+div.quote{
+  font-family: cursive;
+  font-size: 30px;
+}
+
+
+div.meny {
+  background-color: #ADF0E5;
+  border: 3px solid yellow;
+  padding: 5px;
+  margin: 5px;
+  text-align: center;
+  font-size: 7px;
+}
+div.Margaret{
+  font-size: 20px;
+}
+div.tabell {
+       border-collapse: collapse;}
+  th{background-color: #8cbe05;
+      border: 1px solid black;
+      padding: 5px;}
+  td{background-color: ;
+      background-color: #ADF0E5;
+      border: 1px solid black;
+      padding: 5px;
+}
+
+
+div.liste1 {
+  background-color: yellow;
+  padding: 5px;
+  margin: 2px;
+  width: 65%;
+  list-style-type: none;
+}
+
+div.liste2 {
+  background-color: yellow;
+  padding: 5px;
+  margin: 2px;
+  width: 65%;
+  list-style-type: numbers;
+}
